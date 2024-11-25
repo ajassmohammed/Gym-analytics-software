@@ -1,4 +1,4 @@
- const mongoose = require('mongoose');
+const mongoose = require('mongoose');
  const memberSchema = new mongoose.Schema({
  firstName: String,
  lastName: String,
